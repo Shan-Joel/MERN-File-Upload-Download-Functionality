@@ -1,4 +1,4 @@
-![alt text](frontend\src\images\preview-img.png)
+![alt text](./frontend/src/images/preview-img.png)
 
 To run this application, add your MongoDB connection details in `server/db/db.js` file.
 
