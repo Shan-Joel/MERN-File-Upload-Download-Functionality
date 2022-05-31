@@ -14,4 +14,4 @@ Open another terminal and execute the following commands in sequence from inside
 7. npm start
 ```
 
-and access the application at http://localhost:3030/
+and access the application at http://localhost:3000/
